@@ -16,9 +16,9 @@ In this module, you will learn about the different types of data analysis and th
 
 **The Data Analysis Process**
 1. Understanding the problem and desired result,
-  - Defining where you are and where you want to be.  
+     - Defining where you are and where you want to be.  
 2. Setting a clear metric,
-  - Deciciding what will be measured and how it will be measured.
+     - Deciciding what will be measured and how it will be measured.
 3. Gathering data,
-  - Identyfing data you require, the sources from wich you will access this data, and the best tools for the job.
+     - Identyfing data you require, the sources from wich you will access this data, and the best tools for the job.
 4. Cleaning data.
